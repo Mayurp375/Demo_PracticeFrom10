@@ -12,29 +12,34 @@ public class employeeeWage {
     int empWage = 0;
     int Hours;
     int day;
+
     public void presentOrAbsent() {
         for (int day = 0; day < NUMBER_OF_WORKING_DAYS; day++) {
-           
-            int num = random.nextInt(3);
-            if (num == 1) {
-                System.out.println("present");
-                EMP_RATE_PER_HR = 20;
-                Hours = 8;
-                empWage = EMP_RATE_PER_HR * Hours;
-                System.out.println(empWage+":wage");
-            } else if (num == 2) {
-                System.out.println("partTime");
-                EMP_RATE_PER_HR = 20;
-                Hours = 4;
-                empWage = EMP_RATE_PER_HR * Hours;
-                System.out.println(empWage+":wage");
-            } else {
-                System.out.println("absent");
+            {
 
+                if (NUMBER_OF_WORKING_DAYS == 20 || Hours == 100) {
+
+                    int num = random.nextInt(3);
+                    if (num == 1) {
+                        System.out.println("present");
+                        EMP_RATE_PER_HR = 20;
+                        Hours = 8;
+                        empWage = EMP_RATE_PER_HR * Hours;
+                        System.out.println(empWage + ":wage");
+                    } else if (num == 2) {
+                        System.out.println("partTime");
+                        EMP_RATE_PER_HR = 20;
+                        Hours = 4;
+                        empWage = EMP_RATE_PER_HR * Hours;
+                        System.out.println(empWage + ":wage");
+                    } else {
+                        System.out.println("absent");
+                    }
+                }
             }
         }
         empWage = EMP_RATE_PER_HR * Hours;
-        int TotalWage = empWage*NUMBER_OF_WORKING_DAYS;
+        int TotalWage = empWage * NUMBER_OF_WORKING_DAYS;
         System.out.println("employee wage" + " " + TotalWage);
 
     }
