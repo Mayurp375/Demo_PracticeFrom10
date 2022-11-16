@@ -1,0 +1,94 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©úËü
+K
+java:S18548"6Remove this useless assignment to local variable "d1".(¨Ş<
+Q
+java:S18547"6Remove this useless assignment to local variable "f1".(ÿ°ÍÒùÿÿÿÿ
+U
+java:S18542":Remove this useless assignment to local variable "myText".(³Íã°üÿÿÿÿ
+W
+java:S18540"<Remove this useless assignment to local variable "myLatter".(ìé›ûúÿÿÿÿ
+U
+java:S1854/"?Remove this useless assignment to local variable "myFloatNube".(©ı‹¿
+U
+java:S1854.":Remove this useless assignment to local variable "myName".(ä¹ôşÿÿÿÿ
+U
+java:S1854-":Remove this useless assignment to local variable "myTesx".(ıÛğ‰ıÿÿÿÿ
+L
+java:S1854,"6Remove this useless assignment to local variable "ma".(®Úß
+S
+java:S1854*"8Remove this useless assignment to local variable "dobl".(£¤ÿøûÿÿÿÿ
+L
+java:S1854)"6Remove this useless assignment to local variable "fl".(¿Œ¤ı
+R
+java:S1854("7Remove this useless assignment to local variable "lng".(æÜâóûÿÿÿÿ
+K
+java:S1854'"6Remove this useless assignment to local variable "in".(Åã@
+L
+java:S1854&"6Remove this useless assignment to local variable "sh".(şíŞÌ
+P
+java:S1854%"5Remove this useless assignment to local variable "s".(¢¼Êƒÿÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "myNum".(¶æõËüÿÿÿÿ
+Y
+java:S1659">Declare "y" and all following declarations on a separate line.(ºû·àøÿÿÿÿ
+Y
+java:S1659">Declare "b" and all following declarations on a separate line.(ë³ ¹øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÚ©€úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(á™‘şùÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ‰”şÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(­—ø´ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÕÅµıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üö¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾È©‹üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»”“Ë
+M	java:S106"9Replace this use of System.out or System.err by a logger.(´û(
+A
+java:S1481"&Remove this unused "a" local variable.(ë³ ¹øÿÿÿÿ
+A
+java:S1481"&Remove this unused "b" local variable.(ë³ ¹øÿÿÿÿ
+A
+java:S1481"&Remove this unused "c" local variable.(ë³ ¹øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨·½ÿÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÏàÍºıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+\
+java:S3457$"AFormat specifiers should be used instead of string concatenation.(„µ»”úÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(„µ»”úÿÿÿÿ
+A
+java:S1481%"&Remove this unused "s" local variable.(¢¼Êƒÿÿÿÿÿ
+=
+java:S1481&"'Remove this unused "sh" local variable.(şíŞÌ
+<
+java:S1481'"'Remove this unused "in" local variable.(Åã@
+C
+java:S1481("(Remove this unused "lng" local variable.(æÜâóûÿÿÿÿ
+=
+java:S1481)"'Remove this unused "fl" local variable.(¿Œ¤ı
+D
+java:S1481*")Remove this unused "dobl" local variable.(£¤ÿøûÿÿÿÿ
+>
+java:S1481+")Remove this unused "bool" local variable.(¦—úQ
+=
+java:S1481,"'Remove this unused "ma" local variable.(®Úß
+F
+java:S1481-"+Remove this unused "myTesx" local variable.(ıÛğ‰ıÿÿÿÿ
+F
+java:S1481."+Remove this unused "myName" local variable.(ä¹ôşÿÿÿÿ
+F
+java:S1481/"0Remove this unused "myFloatNube" local variable.(©ı‹¿
+H
+java:S14810"-Remove this unused "myLatter" local variable.(ìé›ûúÿÿÿÿ
+B
+java:S14811",Remove this unused "myBools" local variable.(şŒ¥Ó
+F
+java:S14812"+Remove this unused "myText" local variable.(³Íã°üÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(á•¾ï
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ùÇÎÑıÿÿÿÿ
+B
+java:S14817"'Remove this unused "f1" local variable.(ÿ°ÍÒùÿÿÿÿ
+<
+java:S14818"'Remove this unused "d1" local variable.(¨Ş<

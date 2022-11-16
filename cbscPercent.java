@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class cbscPercent
  {
     public static void main (String[] args){
@@ -16,6 +17,10 @@ public class cbscPercent
         System.out.println("enter your name");
         String name =sc.nextLine();
         System.out.println("Name is :"+name);
+
+
+
+        
     }
       
 }
